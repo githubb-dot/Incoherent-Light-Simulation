@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import time
 import progressbar
 
-
+#small comment change
 from vector3 import *
 
 nm = 1e-9
